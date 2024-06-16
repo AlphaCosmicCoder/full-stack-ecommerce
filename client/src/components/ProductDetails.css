@@ -1,0 +1,32 @@
+.product-container {
+    margin-top: 50px;
+}
+
+.product-image {
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.product-details {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-name {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.product-description {
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.product-price {
+    font-size: 1.5rem;
+    color: #28a745;
+    margin-top: 10px;
+}
